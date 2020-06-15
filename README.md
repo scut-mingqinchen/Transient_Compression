@@ -4,6 +4,7 @@
 - Accepted: SIGGRAPH 2019 Posters; Optics Letters
 - Writers: Yun Liang, Mingqin Chen, Zesheng Huang, Diego Gutierrez, Adolfo Muñoz, Julio Marco
 - Institute: South China Agricultural University; Universidad de Zaragoza
+
 For more information please see the paper:
 - [[Optics Letter]](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-1986)
 - [[ACM SIGGRAPH 2019 Posters]](http://webdiis.unizar.es/~juliom/pubs/2019SIGPoster_compression_poster_abstract.pdf)
